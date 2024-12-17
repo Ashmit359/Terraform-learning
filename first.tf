@@ -3,5 +3,5 @@
 //}
 
 output hello {
-    value = "hello word 123"
+    value = "hello world 123"
 }
