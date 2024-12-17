@@ -1,5 +1,6 @@
-variable username{}
+variable username{
+    default = "world"
+}
 
 
-//how to do nonactive variable so my code not phatna in integration with jenkins and other 
-// terraform plan -var "username=ashmit"
+
