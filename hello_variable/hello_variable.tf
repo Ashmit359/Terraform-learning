@@ -1,5 +1,5 @@
 output printname {
 
-    value = "hello, ${var.username}, youe age is ${var.age}"
+    value = "hello, ${var.username}, your age is ${var.age}"
 
 }

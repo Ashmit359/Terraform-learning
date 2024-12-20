@@ -1,8 +1,10 @@
 variable username{
-    default = "world"
+    type = string
+    default = "Ashmit Sinha"
 }
 
 variable age{
+    type = number
 }
 
 
