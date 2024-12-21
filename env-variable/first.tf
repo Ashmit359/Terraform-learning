@@ -3,6 +3,6 @@ variable "username" {
 }
 
 output "printname" {
-    value = "hello, ${var.username}"
+    value = "hello,  ${var.username}"
   
 }
